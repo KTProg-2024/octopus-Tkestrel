@@ -1,0 +1,37 @@
+.largerfont{
+  font-size: 20px;
+}
+
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(39, 30, 30, 0.904)
+}
+
+.smallerfont{
+  font-size:14px;
+}
+
+.img{
+  border-style: solid;
+  border-width: 5px;
+}
+
+.i{
+  font-style: italic;
+}
+
+.div1{
+  color:black;
+}
+
+.div2{
+  color:rgba(40, 30, 30, 0.99);
+}
+
+.div3{
+  color:rgba(40, 30, 30, 0.98);
+}
+
+.div4{
+  color:rgba(40, 30, 30, 0.97);
+}
